@@ -9,7 +9,7 @@
   <!-- EN: Ideoligion of -->
   <IdeoligionOf>ideolojisi</IdeoligionOf>
   <!-- EN: Memes -->
-  <Memes>özellikler</Memes>
+  <Memes>Düşünce</Memes>
   <!-- EN: Narrative -->
   <CoreNarrative>anlatı</CoreNarrative>
   <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
@@ -65,7 +65,7 @@
   <!-- EN: Culture affects names, appearances, and symbols. -->
   <CultureTip>Kültür isimleri, görünüşleri ve sembolleri etkiler.</CultureTip>
   <!-- EN: Structure -->
-  <StructureMeme>Yapı</StructureMeme>
+  <StructureMeme>Düşünce Yapısı</StructureMeme>
   <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
   <StructureMemeTip>Bir ideolojinin yapısı, evrenin ahlaki yapısı için önemli gördüğü varlıkların ve kuvvetlerin türünü belirler. Doğrudan oyuna etkisi yoktur.</StructureMemeTip>
   <!-- EN: Adjective -->
