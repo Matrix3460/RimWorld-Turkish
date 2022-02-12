@@ -1,18 +1,40 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Customize ideoligion -->
+  <CustomizeIdeoligion>İdeolojini Özelleştir</CustomizeIdeoligion>
   <!-- EN: Choose your faction's ideoligion -->
   <ChooseIdeoligion>Tarafınızın ideolojisini seçin</ChooseIdeoligion>
+  <!-- EN: A random structure will be used for your ideoligion. -->
+  <RandomStructureTip>İdeolojiniz için rastgele bir yapı kullanılacaktır.</RandomStructureTip>
+  <!-- EN: A random style will be used for your ideoligion. -->
+  <RandomStyleTip>İdeolojiniz için rastgele bir stil kullanılacaktır.</RandomStyleTip>
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <ChooseYourIdeoligionDesc>Başlangıç kolonistleriniz neye inanmalı? Bu inançlar oynanışı ve görselleri etkiler. Başkalarını kendi inançlarınıza katabilecek veya onların inançlarını üstlenebileceksiniz.</ChooseYourIdeoligionDesc>
+  <!-- EN: Customize -->
+  <Customize>Özelleştir</Customize>
   <!-- EN: Create custom -->
   <CreateCustom>Özel oluştur</CreateCustom>
+  <!-- EN: Delete custom -->
+  <DeleteCustom>Özeli sil</DeleteCustom>
+  <!-- EN: Random -->
+  <Random>Rastgele</Random>
+  <!-- EN: Load saved -->
+  <LoadSaved>Yükle/Kaydet</LoadSaved>
   <!-- EN: Create new -->
   <CreateNew>Yeni oluştur</CreateNew>
+  <!-- EN: Play classic -->
+  <PlayClassic>Klasik Oyna</PlayClassic>
+  <!-- EN: Create fluid... -->
+  <CreateFluid>Akışkan oluştur...</CreateFluid>
   <!-- EN: Load existing -->
   <LoadExisting>Mevcut olanları yükle</LoadExisting>
   <!-- EN: Create custom ideoligion -->
   <CreateCustomIdeoligion>Özel ideoloji oluşturun</CreateCustomIdeoligion>
   <!-- EN: Load saved ideoligion -->
   <LoadExistingIdeoligion>Kaydedilmiş ideolojiyi yükle</LoadExistingIdeoligion>
+  <!-- EN: Custom ideoligion -->
+  <CustomIdeoligionSectionHeader>Özel ideoloji</CustomIdeoligionSectionHeader>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
   <SelectAnIdeo>sol taraftan grubunuz için bir ideoloji seçin veya</SelectAnIdeo>
   <!-- EN: ideoligion -->
@@ -97,6 +119,36 @@
   <DisabledByPrecept>{0} kuralına göre devre dışı bırakıldı</DisabledByPrecept>
   <!-- EN: Everyone -->
   <Everyone>Herkes</Everyone>
+  <!-- EN: memes -->
+  <MemesLower>düşünce</MemesLower>
+  <!-- EN: Narrative -->
+  <Narrative>Hikaye</Narrative>
+  <!-- EN: narrative -->
+  <NarrativeLower>hikaye</NarrativeLower>
+  <!-- EN: Precept Name -->
+  <PreceptName>Kural Adı</PreceptName>
+  <!-- EN: precept name -->
+  <PreceptNameLower>kural adı</PreceptNameLower>
+  <!-- EN: Changing {0} -->
+  <Changing>{0} Değiştiriliyor</Changing>
+  <!-- EN: structures -->
+  <StructuresLower>yapılar</StructuresLower>
+  <!-- EN: Development points -->
+  <Reward_DevelopmentPointsLabel>Geliştirme noktaları</Reward_DevelopmentPointsLabel>
+  <!-- EN: Your development points for {0} will increase by {1}.\n\nYou currently have {2} development points. Once you have {3} development points you can reform the ideoligion.\n\nEarn additional development points by completing other quests and rituals. -->
+  <Reward_DevelopmentPoints>{0} için geliştirme puanlarınız {1} artacak.\n\nŞu anda {2} geliştirme noktanız var. {3} geliştirme noktasına sahip olduğunuzda ideolojide reform yapabilirsiniz.\n\nDiğer görevleri ve ritüelleri tamamlayarak ek geliştirme puanları kazanın.</Reward_DevelopmentPoints>
+  <!-- EN: Current points -->
+  <CurrentDevelopmentPoints>Mevcut noktalar</CurrentDevelopmentPoints>
+  <!-- EN: Points needed to reform -->
+  <ReformDevelopmentPoints>Reform için gereken noktalar</ReformDevelopmentPoints>
+  <!-- EN: quest -->
+  <QuestLower>arayış</QuestLower>
+  <!-- EN: Vegetarian -->
+  <MealKindVegetarian>Vejetaryen</MealKindVegetarian>
+  <!-- EN: Contains meat -->
+  <MealKindMeat>Et içerir</MealKindMeat>
+  <!-- EN: Acceptable food for everyone -->
+  <MealKindAny>Herkes için kabul edilebilir yiyecek</MealKindAny>
 
   <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
   <RitualTargetGraveInfo>{PAWN_labelShort}'un cesedini içeren bir mezar.</RitualTargetGraveInfo>
@@ -443,7 +495,9 @@
   <CurrentlyAffectedBy>Şu anda etkilenen</CurrentlyAffectedBy>
   <!-- EN: {0} connection strength needed to support a dryad. -->
   <NotEnoughConnectionStrengthForSingleDryad>Bir orman perisini desteklemek için {0} bağlantı gücü gerekli.</NotEnoughConnectionStrengthForSingleDryad>
-
+  <!-- EN: Cannot assign allowed area -->
+  <CannotAssignAllowedAreaToDryad>İzin verilen alana atanamıyor</CannotAssignAllowedAreaToDryad>
+  
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->
   <TargetNightOutdoors>Açık havada ve gece vakti hedefleyin</TargetNightOutdoors>
@@ -517,10 +571,16 @@
   <BiosculpterPodCycleLabel>Döngü</BiosculpterPodCycleLabel>
   <!-- EN: loading nutrition -->
   <BiosculpterPodCycleLabelLoading>gıda yükleme</BiosculpterPodCycleLabelLoading>
+  <!-- EN: (and biotuning) -->
+  <BiosculpterPodCycleWillBiotune>(ve biotuning)</BiosculpterPodCycleWillBiotune>
   <!-- EN: ready -->
   <BiosculpterPodCycleLabelReady>hazır</BiosculpterPodCycleLabelReady>
+  <!-- EN: Duration -->
+  <BiosculpterPodCycleDuration>Süre</BiosculpterPodCycleDuration>
   <!-- EN: Prepare {0} cycle -->
   <BiosculpterPodCycleCommand>{0} döngü hazırla</BiosculpterPodCycleCommand>
+  <!-- EN: Duration (transhumanists) -->
+  <BiosculpterPodCycleDurationTranshumanists>Süre (transhümanistler)</BiosculpterPodCycleDurationTranshumanists>
   <!-- EN: Ends in -->
   <BiosculpterCycleTimeRemaining>içinde biter</BiosculpterCycleTimeRemaining>
   <!-- EN: Biotuned to -->
@@ -543,5 +603,19 @@
   <BiosculpterPleasureCompletedMessage>{PAWN label Short} zevk döngüsünü tamamladı.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
   <BiosculpterCleanlinessSpeedFactor>Temizlik hız faktörü</BiosculpterCleanlinessSpeedFactor>
+  <!-- EN: Biotuned speed factor -->
+  <BiosculpterBiotunedSpeedFactor>Biotuned hız faktörü</BiosculpterBiotunedSpeedFactor>
+  <!-- EN: These conditions will be healed -->
+  <HealingCycleWillHeal>Bu koşullar iyileşecek</HealingCycleWillHeal>
+  <!-- EN: One of these conditions will be healed -->
+  <HealingCycleOneWillHeal>Bu koşullardan biri iyileşecek</HealingCycleOneWillHeal>
+  <!-- EN: Missing required research -->
+  <MissingRequiredResearch>Eksik gerekli araştırma</MissingRequiredResearch>
+  <!-- EN: Requires -->
+  <BiosculpterRequiresIngredients>Gereklilikler</BiosculpterRequiresIngredients>
+  <!-- EN: On completion of the {CYCLE} cycle, the following will occur -->
+  <OnCompletionOfCycle>{CYCLE} döngüsünün tamamlanmasının ardından aşağıdakiler gerçekleşecektir</OnCompletionOfCycle>
+  <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue? -->
+  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}, {CYCLE} döngüsüyle iyileştirilebilecek herhangi bir hastalığa sahip değil.\n\nDevam etmek istiyor musun?</BiosculpterNoCoditionsToHeal>
 
 </LanguageData>
