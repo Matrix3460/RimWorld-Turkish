@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: female supremacy -->
-  <FemaleSupremacy.label>TODO</FemaleSupremacy.label>
+  <FemaleSupremacy.label>Kadın üstünlüğü</FemaleSupremacy.label>
   <!-- EN: Women are the superior gender and should rule. -->
-  <FemaleSupremacy.description>TODO</FemaleSupremacy.description>
+  <FemaleSupremacy.description>Kadınlar üstün cinsiyettir ve yönetmelidir.</FemaleSupremacy.description>
   <!-- EN:
     <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] gave wisdom to women, that they may guide and harmonize the excitable men and children, and admonished those who upset this divine order.</li>
     <li>episode(uses=1,tag=meme_FemaleSupremacy) ->The women believers, finding themselves abused by the depraved men, fought them, and [deity0_name] gave them divine aid, and they rose to their rightful place.</li>
@@ -32,7 +32,18 @@
     <li>memeGod->Mother</li>
     <li>memeLeaderNoun->woman</li>
   -->
-  <FemaleSupremacy.generalRules.rulesStrings>TODO</FemaleSupremacy.generalRules.rulesStrings>
+  <FemaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->kadınsı</li>
+    <li>memeAdjective->kadına yakışır</li>
+    <li>memeHyphenPrefix->Kadın</li>
+    <li>memeHyphenPrefix->kadın</li>
+    <li>memeHyphenPrefix->kadın</li>
+    <li>memeHyphenPrefix->matro</li>
+    <li>memeConcept->Kadın</li>
+    <li>memeConcept->kadınlık</li>
+    <li>memeGod->Anne</li>
+    <li>memeLeaderNoun->kadın
+    </li></FemaleSupremacy.generalRules.rulesStrings>
   <!-- EN: gynist -->
   <FemaleSupremacy.symbolPacks.0.adjective>TODO</FemaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Gynism -->
